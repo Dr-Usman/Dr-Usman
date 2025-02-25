@@ -15,7 +15,7 @@
 
 |  Stats      |  Streak  |
 |:-------------:|:-------------:| 
-| ![Dr Usman's github stats](https://github-readme-stats.vercel.app/api?username=dr-usman&show_icons=true&theme=gotham)  | [![Dr Usman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dr-usman&theme=gotham)](https://github.com/dr-usman?tab=repositories) |
+| ![Dr Usman's github stats](https://github-readme-stats.vercel.app/api?username=dr-usman&show_icons=true&theme=gotham)  | [![Dr Usman's GitHub Streak](https://streak-stats.demolab.com/?user=Dr-Usman&theme=dark)](https://github.com/dr-usman?tab=repositories) |
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr-usman&theme=react-dark&bg_color=0C1014&hide_border=true" width="100%"/>
@@ -30,7 +30,7 @@
 
 
 <!--- ![build](https://github.com/Dr-Usman/Dr-Usman/workflows/build/badge.svg)  --->
-![GitHub last commit](https://img.shields.io/github/last-commit/Dr-Usman/portfolio?logo=Github&link=https%3A%2F%2Fgithub.com%2FDr-Usman%3Ftab%3Drepositories)
+![GitHub last update](https://img.shields.io/github/last-commit/Dr-Usman/portfolio?logo=Github&link=https%3A%2F%2Fgithub.com%2FDr-Usman%3Ftab%3Drepositories)
 [![Visits](https://pageview.vercel.app/?github_user=Dr-Usman)](https://github.com/Dr-Usman)
 <!--- https://visitor-badge.laobi.icu/badge?page_id=dr-usman --->
 
