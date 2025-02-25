@@ -15,7 +15,7 @@
 
 |  Stats      |  Streak  |
 |:-------------:|:-------------:| 
-| ![Dr Usman's github stats](https://github-readme-stats.vercel.app/api?username=dr-usman&show_icons=true&theme=gotham)  | [![Dr Usman's GitHub Streak](https://streak-stats.demolab.com/?user=Dr-Usman&theme=dark)](https://github.com/dr-usman?tab=repositories) |
+| ![Dr Usman's github stats](https://github-readme-stats.vercel.app/api?username=dr-usman&show_icons=true&theme=gotham)  | [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dr-Usman&theme=gotham)](https://github.com/dr-usman?tab=repositories) |
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr-usman&theme=react-dark&bg_color=0C1014&hide_border=true" width="100%"/>
