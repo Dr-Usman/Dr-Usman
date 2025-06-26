@@ -30,8 +30,10 @@
 
 
 <!--- ![build](https://github.com/Dr-Usman/Dr-Usman/workflows/build/badge.svg)  --->
-![GitHub last update](https://img.shields.io/github/last-commit/Dr-Usman/portfolio?logo=Github&link=https%3A%2F%2Fgithub.com%2FDr-Usman%3Ftab%3Drepositories)
-[![Visits](https://pageview.vercel.app/?github_user=Dr-Usman)](https://github.com/Dr-Usman)
+![GitHub last update](https://img.shields.io/github/last-commit/Dr-Usman/Dr-Usman?logo=Github&link=https%3A%2F%2Fgithub.com%2FDr-Usman%3Ftab%3Drepositories)
+[![Repo Updated Badge](https://badges.strrl.dev/updated/Dr-Usman/Dr-Usman)](https://github.com/Dr-Usman)
+[![Visits Badge](https://badges.strrl.dev/visits/Dr-Usman/Dr-Usman)](https://github.com/Dr-Usman)
+[![Visits](https://pageview.vercel.app/?github_user=Dr-Usman)](https://github.com/Dr-Usman) 
 <!--- https://visitor-badge.laobi.icu/badge?page_id=dr-usman --->
 
 
